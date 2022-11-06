@@ -1,0 +1,59 @@
+.beca {
+    background-color: #f6f6f6;
+}
+
+.beca2 {
+    width: 50px;
+    ;
+}
+
+.beca3 {
+    background-color: #f6f6f6;
+}
+
+.beca4 {
+    background-image: url(img/poz2.png);
+    width: 1650px;
+    height: 750px;
+}
+
+.beca5 {
+    background-color: #f6f6f6;
+}
+
+.beca6 {
+    background-color: #f6f6f6;
+}
+
+.beca7 {
+    background-color: #f6f6f6;
+}
+
+.slidze {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+}
+
+/* Create two equal columns that sits next to each other */
+.redsl {
+    flex: 50%;
+    padding: 0 4px;
+}
+
+.redsl img {
+    margin-top: 8px;
+    vertical-align: middle;
+}
+.slikak{
+    margin:auto;
+    height:1000px; width:1500px;
+}
+.slikak p{
+    margin-left: 200px;
+    margin-right:200px;
+
+}
+.desc{
+    font-size: 18px;
+}
